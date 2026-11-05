@@ -1,11 +1,16 @@
 {
   "name": "framenote",
-  "version": "0.1.6",
-  "description": "Scripts and video reviews for filmmakers, video creators and production teams: read scripts, cast and storyboards, suggest script edits, and manage review comments and reviewers in FrameNote.",
+  "displayName": "FrameNote",
+  "version": "0.1.7",
+  "description": "Scripts and video reviews for filmmakers, video creators and production teams: read scripts, cast and storyboards, and manage review comments and reviewers in FrameNote.",
   "author": {
     "name": "Oshri Kdoshim"
   },
   "homepage": "https://framenote.ai",
+  "repository": "https://github.com/oshri/framenote-claude-plugin",
+  "documentationUrl": "https://github.com/oshri/framenote-claude-plugin/blob/main/plugins/framenote/README.md",
+  "supportUrl": "https://framenote.ai/support",
+  "termsOfServiceUrl": "https://framenote.ai/terms-of-service",
   "keywords": [
     "filmmaking",
     "scripts",
