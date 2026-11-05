@@ -1,0 +1,14 @@
+{
+  "name": "framenote",
+  "owner": {
+    "name": "Oshri Kdoshim"
+  },
+  "description": "FrameNote for Claude Code: scripts, cast, storyboards and video reviews.",
+  "plugins": [
+    {
+      "name": "framenote",
+      "source": "./plugins/framenote",
+      "description": "FrameNote scripts, cast, storyboards and video reviews in Claude Code."
+    }
+  ]
+}

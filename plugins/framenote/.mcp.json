@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "framenote": {
+      "type": "http",
+      "url": "https://mcp.framenote.ai/mcp"
+    }
+  }
+}
